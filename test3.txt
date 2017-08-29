@@ -1,3 +1,6 @@
 if(true){
 	execute this line
 }
+else{
+	get lost	
+}
